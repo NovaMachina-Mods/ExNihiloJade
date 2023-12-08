@@ -8,7 +8,7 @@ plugins {
     id 'maven-publish'
     id 'net.neoforged.gradle.userdev' version '7.0.57'
     id 'org.checkerframework' version '0.6.30'
-    id 'io.freefair.lombok' version '8.3'
+    id 'io.freefair.lombok' version '8.4'
 //    id 'org.parchmentmc.librarian.forgegradle' version '1.+'
     id 'com.diffplug.spotless' version '6.8.0'
     id 'net.darkhax.curseforgegradle' version '1.1.16'
